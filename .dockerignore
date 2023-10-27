@@ -1,0 +1,6 @@
+README.md
+venv/
+__pycache__/
+.git/
+.idea/
+src/__pycache__/
